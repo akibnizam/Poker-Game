@@ -1,5 +1,5 @@
 # Poker-Game
-A Game of Poker
+A Game of Extreme Poker
 
 
 # Background
