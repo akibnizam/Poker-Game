@@ -2,6 +2,13 @@
 A Game of Extreme Poker
 
 
+# How to run
+To compile the game you can use: `javac src/main/java/model/*.java src/main/java/viewcontroller/*.java src/main/java/view/*.java` 
+And to run the game you can use: `java -cp src/main/java view.PokerGame`
+
+Run these commands from outside the src directory.
+
+
 # Background
 The rules for EXTREME Poker are very similar to Texas Holdem and are as follows:
 
